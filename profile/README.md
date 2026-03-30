@@ -26,15 +26,15 @@
 
 ## 🦇 Professional Digital Decay
 
-[RawVamp](https://rawvamp.com) is a next-gen, browser-based photo editing application designed for content creators, photographers, social media managers, graphic designers, and photography professionals working with gothic, grunge, emo, Y2K, and alternative visual styles. Our application applies sophisticated dark aesthetic filters, vintage-style visual effects, and digital decay to your images without the need for heavy desktop software.
+[RawVamp](https://rawvamp.com) is a next-gen, browser-based photo editing application designed for content creators, photographers, social media managers, and graphic designers working with gothic, grunge, emo, Y2K, and alternative visual styles. Our application applies sophisticated dark aesthetic filters, vintage-style visual effects, and digital decay to your images without the need for heavy desktop software.
 
-All image processing is executed **100% locally within your web browser** via a custom WebGL engine. Your visual data never leaves your device, ensuring absolute zero-upload privacy and zero cloud uploads.
+All image processing is executed **100% locally within your web browser** via a custom WebGL engine. Your visual data never leaves your device, ensuring absolute zero-upload privacy.
 
 ---
 
 ## ⚙️ Core Processing Engines
 
-### 1. 🩸 Necro Glitch, The CURSED Generator & Glitch Art Maker
+### 1. 🩸 The CURSED Generator & Glitch Art Maker
 A dedicated glitch engine that procedurally tears apart RGB color channels.
 * **Dreamcore PFP Maker:** Generate an eerie weirdcore aesthetic avatar with unpredictable color displacement and pixel decay.
 * **Analog Artifacts:** Add an authentic **vhs error effect**, static noise, and scan lines texture to any image.
@@ -54,6 +54,8 @@ A dedicated glitch engine that procedurally tears apart RGB color channels.
     </tr>
   </table>
 </div>
+
+👉 **[Launch the CURSED Generator](https://rawvamp.com/tools/cursed-generator)**
 
 <br>
 
@@ -77,6 +79,17 @@ Standard applications ruin your images by simply dropping the brightness. Our en
     </tr>
   </table>
 </div>
+
+👉 **[Try the Free Image Darkener](https://rawvamp.com/tools/darken-image)**
+
+<br>
+
+### 3. 📼 Y2K, Webcore & Vintage Goth Aesthetic
+Embrace the tactile feel of the 90s. RawVamp processes images to mimic old film photography and early digital compression.
+* **Vintage Camera Filter AI:** Achieve that raw 90s grunge texture and authentic film grain with smart luminance mapping.
+* **Cyber Halftone & Dithering:** Apply a **1-bit photo filter** or a precise **dither effect online** to craft the ultimate retro cybercore identity.
+
+👉 **[Explore Dark Aesthetic Filters](https://rawvamp.com/aesthetics/dark-filter)**
 
 ---
 
@@ -103,11 +116,12 @@ Integrate digital decay directly into your workflow. The RawVamp browser extensi
 
 ---
 
-## 🛠️ Technical Architecture & Features
+## 🛠️ Technical Architecture & Global Features
 
 The RawVamp software architecture is engineered for performance, quality retention, and professional utility. It prioritizes local computation, speed, and privacy. The core editing functionality operates independently and does not require external APIs.
 
 * **Client-Side WebGL:** Processes heavy 90s grunge texture, VHS distortion, and Cyber Halftone dithering entirely on your local GPU.
+* **Global Zero-Latency:** Whether you are curating in New York or editing in London, our decentralized engine ensures instant processing with zero server lag.
 * **Broad Format Support:** Natively supports JPG, PNG, WEBP, and HEIC file formats.
 * **Smart Session Recovery:** The application automatically caches your editing progress locally, restoring unsaved edits if your browser closes unexpectedly.
 * **High-Resolution Export:** Export options range from standard definition up to 4K / Original resolution, maintaining image quality via lossless PNG compression.
