@@ -11,13 +11,13 @@
   <br>
 
   <a href="https://rawvamp.com">
-    <img src="https://img.shields.io/badge/LAUNCH_WEB_APP-RAWVAMP.COM-111111?style=for-the-badge&logo=wechat&logoColor=white" height="42" alt="Launch Web App">
+    <img src="https://img.shields.io/badge/LAUNCH_WEB_APP-RAWVAMP.COM-111111?style=for-the-badge&logo=webgl&logoColor=white" alt="Launch Web App">
   </a>&nbsp;&nbsp;
   <a href="https://chromewebstore.google.com/detail/dlfddglcdlajcneofgdiebbonckgacnh">
-    <img src="https://img.shields.io/badge/ADD_TO_CHROME-RawVamp_Extension-bd362f?style=for-the-badge&logo=google-chrome&logoColor=white" height="42" alt="Add to Chrome">
+    <img src="https://img.shields.io/badge/ADD_TO_CHROME-Extension-bd362f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Add to Chrome">
   </a>&nbsp;&nbsp;
   <a href="https://microsoftedge.microsoft.com/addons/detail/pngoobdipcnmddoojongpioanjgialdj">
-    <img src="https://img.shields.io/badge/ADD_TO_EDGE-RawVamp_Extension-bd362f?style=for-the-badge&logo=microsoft-edge&logoColor=white" height="42" alt="Add to Edge">
+    <img src="https://img.shields.io/badge/ADD_TO_EDGE-Extension-bd362f?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Add to Edge">
   </a>
 
 </div>
@@ -93,6 +93,16 @@ Embrace the tactile feel of the 90s. RawVamp processes images to mimic old film 
 
 ---
 
+## 🩸 How to Edit a Dark Aesthetic Photo Online
+
+Creating your cursed webcore or Y2K grunge image is completely free and requires no account:
+1. **Upload your image:** Drag and drop your photo into the [RawVamp Editor](https://rawvamp.com).
+2. **Apply the Darkener:** Use the smart luminance slider to naturally dim the photo without crushing the colors.
+3. **Add Digital Decay:** Inject VHS noise, chromatic aberration, or a 1-bit dither effect to build the vintage vibe.
+4. **Export Lossless:** Download your high-resolution PNG directly to your device. 
+
+---
+
 ## 🖥️ Browser Extension: The Native Darkroom
 
 Integrate digital decay directly into your workflow. The RawVamp browser extension for Chrome, Edge, Opera, and Brave allows you to **edit photo in browser** instantly. Right-click web images or use the Glitch Tab feature to capture your screen, bringing the full engine into your active web environment.
@@ -118,14 +128,16 @@ Integrate digital decay directly into your workflow. The RawVamp browser extensi
 
 ## 🛠️ Technical Architecture & Global Features
 
-The RawVamp software architecture is engineered for performance, quality retention, and professional utility. It prioritizes local computation, speed, and privacy. The core editing functionality operates independently and does not require external APIs.
+Unlike cloud-based AI editors, RawVamp respects your digital privacy. The architecture is engineered for performance, quality retention, and professional utility. 
 
-* **Client-Side WebGL:** Processes heavy 90s grunge texture, VHS distortion, and Cyber Halftone dithering entirely on your local GPU.
-* **Global Zero-Latency:** Whether you are curating in New York or editing in London, our decentralized engine ensures instant processing with zero server lag.
-* **Broad Format Support:** Natively supports JPG, PNG, WEBP, and HEIC file formats.
-* **Smart Session Recovery:** The application automatically caches your editing progress locally, restoring unsaved edits if your browser closes unexpectedly.
+* **Engine:** Custom JavaScript & WebGL shader pipelines.
+* **Processing:** 100% Client-side execution (Local Browser Environment). Processes heavy 90s grunge texture, VHS distortion, and Cyber Halftone dithering entirely on your local GPU.
+* **Data Storage:** Zero-upload policy. We do not store, view, or sell your images.
+* **Global Zero-Latency:** Instant processing with zero server lag.
+* **Compatibility:** Fully progressive Web App (PWA) supporting Chrome, Edge, and WebKit browsers. Broad native format support (JPG, PNG, WEBP, HEIC).
+* **Smart Session Recovery:** Automatically caches your editing progress locally, restoring unsaved edits if your browser closes unexpectedly.
 * **High-Resolution Export:** Export options range from standard definition up to 4K / Original resolution, maintaining image quality via lossless PNG compression.
-* **Batch Processing:** Premium tiers support synchronizing your aesthetic edits across up to 10 photos simultaneously, with ZIP archive download capabilities for professional workflows.
+* **Batch Processing:** Premium tiers support synchronizing your aesthetic edits across up to 10 photos simultaneously, with ZIP archive download capabilities.
 
 <br>
 
