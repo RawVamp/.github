@@ -1,0 +1,79 @@
+RAWVAMP - SOFTWARE LICENSE & TERMS OF SERVICE
+Copyright (c) 2026 Vadym Trebushnyi (aka CepeshRC)
+All Rights Reserved.
+
+SUMMARY OF KEY TERMS
+
+- Access: You are granted a limited right to access and use the RawVamp platform via a web browser. You do not own the software.
+- VIP/Platinum Features: Advanced functionalities require an active paid subscription.
+- Restrictions: You may NOT copy, scrape, reverse-engineer, redistribute, or replicate the UI/UX of this Service.
+- Data Privacy: You retain full ownership of your photos. RawVamp processes images locally in your browser.
+- "As Is": The Service is provided without warranties.
+
+1. DEFINITIONS
+
+- "Service": Refers to the SaaS platform "RawVamp" (hosted at rawvamp.com), including all its source code, scripts, styles (CSS), assets, API, and databases.
+- "Creator & IP Owner": Refers to Vadym Trebushnyi (professionally known as CepeshRC), the sole owner of the intellectual property rights.
+- "Merchant of Record": Refers to Natalia Lohvynovska (United Kingdom), the authorized legal representative responsible for billing, payments, and financial compliance.
+- "User": Refers to you, the individual or entity accessing or using the Service.
+- "Paid Features": Refers to functionalities (VIP, Platinum) available only to Users with an active paid subscription.
+
+2. LICENSE GRANT & ACCESS RIGHTS
+
+2.1. Right to Use: The Creator grants the User a limited, non-exclusive, non-transferable, revocable license to access and use the Service via a web browser for personal or commercial use (depending on the plan), strictly in accordance with these terms.
+
+2.2. No Source Code Rights: Unlike downloadable software, this Service runs on the Creator's servers. This license does NOT grant you any right to obtain, view, or modify the backend source code.
+
+3. SUBSCRIPTIONS & PAYMENTS
+
+3.1. Payment Processors: Payments are processed securely via third-party providers: Stripe (for Card payments) and NOWPayments (for Crypto). The Creator does not store your full financial details.
+
+3.2. Billing Entity: All commercial transactions are legally handled by the Merchant of Record (Natalia Lohvynovska, UK) acting on behalf of the RawVamp project.
+
+3.3. No Refunds: All subscription purchases are final and non-refundable, except where required by the consumer protection laws of the United Kingdom or the User's jurisdiction.
+
+4. USER GENERATED CONTENT & PRIVACY
+
+4.1. Your Ownership: You retain all rights and ownership of the photos you upload and edit using the Service. RawVamp claims no intellectual property rights over your creative works.
+
+4.2. Local Processing: The Service is designed to process images locally within your browser (Client-Side). Your photos are not uploaded to our servers unless you explicitly use a sharing feature (e.g., "Share Link").
+
+5. RESTRICTIONS & PROHIBITED ACTIONS
+
+You are expressly prohibited from:
+
+- Cloning & Copying: Copying the visual design (UI), user experience (UX), or features of RawVamp to build a competing product.
+- Scraping: Using bots, crawlers, or automated scripts to harvest data or content from the Service.
+- AI Training: Using the Service, its output, or its filters to train machine learning models or artificial intelligence systems without explicit written permission.
+- Reverse Engineering: Attempting to decompile front-end code (JS/WASM) or gain unauthorized access to the back-end API.
+- Sharing Accounts: Sharing your VIP/Platinum account credentials with other individuals to bypass payment.
+- Vulnerability Scanning: Testing the Service for vulnerabilities without explicit written permission from the Creator.
+
+6. OWNERSHIP & INTELLECTUAL PROPERTY
+
+The Service is proprietary. The Creator (Vadym Trebushnyi / CepeshRC) retains all right, title, and interest in and to the Service, including all copyrights, patents, trade secrets, and other intellectual property rights worldwide. The Merchant of Record retains rights solely related to financial operations.
+
+7. TERMINATION
+
+The Creator reserves the right to terminate or suspend your access to the Service immediately, without prior notice or liability, if you breach any of these terms (e.g., chargebacks, hacking attempts, or account sharing).
+
+8. DISCLAIMER OF WARRANTY
+
+THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE CREATOR DOES NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED, SECURE, OR ERROR-FREE.
+
+9. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE CREATOR (VADYM TREBUSHNYI) OR THE MERCHANT OF RECORD (NATALIA LOHVYNOVSKA) BE LIABLE FOR ANY INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THE SERVICE.
+
+10. CONTACT INFORMATION
+
+- Technical & IP Issues (Creator): admin@rawvamp.com
+- Billing & Legal Issues (Merchant of Record): support@rawvamp.com
+
+11. GOVERNING LAW
+
+These Terms shall be governed by the laws of England and Wales regarding financial transactions and service usage. Intellectual Property disputes shall be governed by international copyright laws and the laws of Ukraine where applicable.
+
+12. CHANGES TO TERMS
+
+The Creator reserves the right to modify these terms at any time. Continued use of the Service after any such changes constitutes your acceptance of the new Terms.
