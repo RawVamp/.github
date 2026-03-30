@@ -1,62 +1,109 @@
 <div align="center">
+  
   <a href="https://rawvamp.com">
-    <img src="https://rawvamp.com/assets/img/seo/glitch-effect-generator-app.webp" alt="RawVamp Dark Aesthetic Photo Editor Banner" width="100%" style="border-radius: 8px;">
+    <img src="./dark-aesthetic-photo-editor-manifesto.webp" alt="RawVamp: Dark Aesthetic Photo Editor & Glitch Photo Effect Generator" width="100%">
   </a>
   <br><br>
-  <h1>RawVamp: The Ultimate Dark Aesthetic Photo Editor</h1>
-  <p><b>Free Browser-Based Glitch Art Maker, Image Darkener, and Y2K Grunge Engine.</b></p>
   
-  [![Website](https://img.shields.io/badge/Website-rawvamp.com-bd362f?style=for-the-badge&logo=google-chrome)](https://rawvamp.com)
-  [![Extension](https://img.shields.io/badge/Chrome_Extension-Available-4285F4?style=for-the-badge&logo=google-chrome)](https://rawvamp.com/browser-extension)
+  <h1>RawVamp: The Ultimate Dark Aesthetic Photo Editor</h1>
+  <p><b>Browser-based photo editor focused on dark aesthetic image processing, glitch art, and complete local privacy.</b></p>
+  
+  <br>
+
+  <a href="https://chromewebstore.google.com/detail/dlfddglcdlajcneofgdiebbonckgacnh">
+    <img src="https://img.shields.io/badge/ADD_TO_CHROME-111111?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=bd362f" height="45" alt="Install RawVamp Dark Aesthetic Editor for Chrome">
+  </a>&nbsp;&nbsp;
+  <a href="https://microsoftedge.microsoft.com/addons/detail/pngoobdipcnmddoojongpioanjgialdj">
+    <img src="https://img.shields.io/badge/ADD_TO_EDGE-111111?style=for-the-badge&logo=microsoftedge&logoColor=white&labelColor=bd362f" height="45" alt="Install RawVamp Dark Aesthetic Editor for Edge">
+  </a>&nbsp;&nbsp;
+  <a href="https://rawvamp.com">
+    <img src="https://img.shields.io/badge/LAUNCH_WEB_APP-111111?style=for-the-badge&logo=wechat&logoColor=white" height="45" alt="Launch Web App">
+  </a>
+
 </div>
 
-## 🦇 Welcome to the Digital Darkroom
-[RawVamp](https://rawvamp.com) is not another basic phone app. It is a powerful, WebGL-driven **dark aesthetic photo editor** designed for creators who embrace digital decay. 
+<br>
 
-We reject sterile, perfect photography. Whether you are crafting a true **vampire aesthetic**, designing a unique **scenecore pfp**, or exploring a **vintage goth aesthetic**, our procedural engine provides the exact textures and algorithms you need—100% free and locally in your browser.
+## 🦇 Professional Digital Decay
+
+[RawVamp](https://rawvamp.com) is designed for content creators, photographers, and graphic designers working with gothic, grunge, emo, Y2K, and alternative visual styles. Our application applies sophisticated dark aesthetic filters and vintage effects to digital images without the need for heavy desktop software.
+
+All image processing is executed **100% locally within your web browser** via a custom WebGL engine. Your visual data never leaves your device, ensuring absolute zero-upload privacy.
 
 ---
 
 ## ⚙️ Core Processing Engines
 
+### 1. 🩸 Necro Glitch & The CURSED Generator
+A dedicated glitch art maker that procedurally tears apart RGB color channels.
+* **Dreamcore PFP Maker:** Generate an eerie weirdcore aesthetic avatar with unpredictable color displacement.
+* **Analog Artifacts:** Add an authentic **vhs error effect**, static noise, and scan lines texture to any image.
+* **Randomized Output:** Roll the dice to spawn completely unique, cursed photos and diabolical images.
+
 <div align="center">
-  <a href="https://rawvamp.com/tools/cursed-generator">
-    <img src="https://rawvamp.com/assets/img/seo/extreme-glitch-effect-photo-maker.webp" width="48%" alt="Glitch Photo Effect">
-  </a>
-  <a href="https://rawvamp.com/tools/darken-image">
-    <img src="https://rawvamp.com/assets/img/seo/dark-mode-picture-shadow-overlay.webp" width="48%" alt="Image Darkener">
-  </a>
+  <table width="100%">
+    <tr>
+      <td width="33%"><img src="https://rawvamp.com/assets/img/seo/extreme-glitch-effect-photo-maker.webp" alt="Extreme Glitch Photo Effect" width="100%"></td>
+      <td width="33%"><img src="https://rawvamp.com/assets/img/seo/glitchcore-image-corruption-artifacting.webp" alt="Glitchcore Aesthetic Corruption" width="100%"></td>
+      <td width="33%"><img src="https://rawvamp.com/assets/img/seo/glitch-art-generator-vhs-error.webp" alt="VHS Error Effect Artifact" width="100%"></td>
+    </tr>
+  </table>
 </div>
 
-### 1. 🩸 The CURSED Generator & Glitch Engine
-Stop searching for a complex *glitch effect photoshop* tutorial. Our engine dynamically tears apart RGB channels to create a genuine **glitch photo effect** instantly.
-* **Dreamcore PFP Maker:** Generate an eerie **weirdcore aesthetic** avatar with a single click.
-* **Analog Artifacts:** Add an authentic **vhs error effect** and **scan lines texture** to any image.
-* **Procedural Chaos:** Roll the dice to spawn completely unique, **cursed photos** and diabolical images.
+<br>
 
-👉 **[Launch the CURSED Generator](https://rawvamp.com/tools/cursed-generator)**
-
-### 2. 🌑 Smart Image Darkener (Tone Protocol)
-Standard tools wash out your colors by simply lowering brightness. RawVamp acts as a professional **image darkener**, allowing you to **darken photo online** while keeping your color palette rich and vibrant.
-* **Cinematic Shadow Overlay:** Naturally **darken background of photo** elements without fake PNGs.
-* **Absolute Blackout:** Crush the contrast to **make an image black** or create a pitch black photo.
+### 2. 🌑 Tone Protocol & Smart Image Darkener
+Standard applications ruin your images by simply dropping the brightness. Our engine acts as a professional **color darkener**, selectively lowering exposure while protecting midtone saturation.
+* **Cinematic Shadow Overlay:** Dim photos and naturally darken background of photo elements without fake PNGs.
+* **Absolute Blackout:** Crush the contrast to make an image black or create a high-resolution pitch black photo.
 * **Negative Inversion:** Toggle the **negative photo filter** to solarize tints and create a high-contrast evil photo.
 
-👉 **[Try the Free Image Darkener](https://rawvamp.com/tools/darken-image)**
-
-### 3. 📼 Y2K & Vintage Goth Aesthetic
-Embrace the tactile feel of the 90s. RawVamp processes images to mimic old film photography and digital compression.
-* **Vintage Camera Filter AI:** Achieve that raw 90s grunge texture and authentic film grain.
-* **Cyber Halftone & Dithering:** Apply a **1-bit photo filter** or **dither effect online** for that retro webcore vibe.
-
-👉 **[Explore Dark Aesthetic Filters](https://rawvamp.com/aesthetics/dark-filter)**
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="33%"><img src="https://rawvamp.com/assets/img/seo/darken-image-online-color-pop.webp" alt="Darken Image Online with Color Pop" width="100%"></td>
+      <td width="33%"><img src="https://rawvamp.com/assets/img/seo/vintage-camera-filter-ai-grunge.webp" alt="Vintage Camera Filter AI Grunge" width="100%"></td>
+      <td width="33%"><img src="https://rawvamp.com/assets/img/seo/vampire-aesthetic-red-color-pfp.webp" alt="Vampire Aesthetic Red Color PFP" width="100%"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🔒 Privacy-First Architecture
-Why download heavy software? You can **edit photo in browser** instantly. RawVamp's Neural-Bake WebGL engine processes your images 100% locally. Your visual data never leaves your device, ensuring maximum privacy for your creative workflow.
+## 🖥️ Browser Extension: The Native Darkroom
+
+Integrate digital decay directly into your workflow. The RawVamp browser extension for Chrome, Edge, Opera, and Brave allows you to **edit photo in browser** instantly. Right-click web images or use the Glitch Tab feature to capture your screen, bringing the full engine into your active web environment.
 
 <div align="center">
-  <i>"No Rules. Only Digital Decay."</i><br>
-  <b>[Visit RawVamp.com](https://rawvamp.com)</b>
+  <img src="https://rawvamp.com/assets/img/marketing/extension/edit-photo-in-browser-dreamcore-pfp.webp" alt="Edit photo in browser to create a dreamcore pfp" width="100%">
+  <br><br>
+  <table width="100%">
+    <tr>
+      <td width="50%"><img src="https://rawvamp.com/assets/img/marketing/extension/crt-filter-online-dark-grunge.webp" alt="Apply a CRT filter online with a dark grunge effect" width="100%"></td>
+      <td width="50%"><img src="https://rawvamp.com/assets/img/marketing/extension/add-noise-to-photo-vintage-grain.webp" alt="Add noise to photo using the vintage grain filter" width="100%"></td>
+    </tr>
+    <tr>
+      <td><img src="https://rawvamp.com/assets/img/marketing/extension/glitch-art-maker-dreamcore-aesthetic.webp" alt="Glitch art maker generating a cursed dreamcore aesthetic" width="100%"></td>
+      <td><img src="https://rawvamp.com/assets/img/marketing/extension/best-chrome-photo-editor-online.webp" alt="Best chrome photo editor interface for Y2K filters" width="100%"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🛠️ Technical Architecture & Features
+
+The RawVamp application is engineered for performance, quality retention, and professional utility.
+
+* **Client-Side WebGL:** Processes heavy 90s grunge texture, VHS distortion, and Cyber Halftone dithering entirely on your local GPU.
+* **Broad Format Support:** Natively supports JPG, PNG, WEBP, and HEIC file formats.
+* **Smart Session Recovery:** The application automatically caches your editing progress locally, restoring unsaved edits if your browser closes unexpectedly.
+* **High-Resolution Export:** Export options range from standard definition up to 4K / Original resolution, maintaining image quality via lossless PNG compression.
+* **Batch Processing:** Premium tiers support synchronizing aesthetic edits across up to 10 photos simultaneously, with ZIP archive download capabilities.
+
+<br>
+
+<div align="center">
+  <i>"Enable creation of vintage goth and dark aesthetic visuals with authentic grunge, Y2K, webcore, and glitch effects."</i><br><br>
+  <b>[RESURRECT YOUR IMAGES @ RAWVAMP.COM](https://rawvamp.com)</b>
 </div>
