@@ -26,7 +26,7 @@
 
 ## 🦇 Professional Digital Decay
 
-[RawVamp](https://rawvamp.com) is a next-gen, browser-based photo editing application designed for content creators, social media managers, graphic designers, and photography professionals. It specializes in dark aesthetic image manipulation and vintage-style visual effects without the need for heavy desktop software.
+[RawVamp](https://rawvamp.com) is a next-gen, browser-based photo editing application designed for content creators, social media managers, photographers, and graphic designers working with gothic, grunge, emo, Y2K, and alternative visual styles. Our application applies sophisticated dark aesthetic filters and vintage-style visual effects without the need for heavy desktop software.
 
 All image processing is executed **100% locally within your web browser** via a custom WebGL engine. Your visual data never leaves your device, ensuring absolute privacy and zero cloud uploads.
 
@@ -50,6 +50,8 @@ A dedicated glitch engine that procedurally tears apart RGB color channels.
   </table>
 </div>
 
+👉 **[Launch the CURSED Generator](https://rawvamp.com/tools/cursed-generator)**
+
 <br>
 
 ### 2. 🌑 Smart Image Darkener & Tone Protocol
@@ -67,6 +69,17 @@ Standard applications ruin your images by simply dropping the brightness. Our en
     </tr>
   </table>
 </div>
+
+👉 **[Try the Free Image Darkener](https://rawvamp.com/tools/darken-image)**
+
+<br>
+
+### 3. 📼 Y2K & Vintage Goth Aesthetic
+Embrace the tactile feel of the 90s. RawVamp processes images to mimic old film photography and digital compression.
+* **Vintage Camera Filter AI:** Achieve that raw 90s grunge texture and authentic film grain.
+* **Cyber Halftone & Dithering:** Apply a **1-bit photo filter** or **dither effect online** for that retro webcore vibe.
+
+👉 **[Explore Dark Aesthetic Filters](https://rawvamp.com/aesthetics/dark-filter)**
 
 ---
 
